@@ -1,0 +1,12 @@
+data
+**/channel-artifacts
+**/crypto-config
+**/__pycache__
+**/prereqs-ubuntu.sh
+.history
+**/*.block
+**/*.tx
+**/crypto-config/
+**/node_modules
+**/hfc-key-store
+banking-usecase/docker-compose-e2e.yaml

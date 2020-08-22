@@ -1,0 +1,23 @@
+OrdererOrgs:
+  - Name: Orderer1
+    Domain: orgorderer1
+    Template:
+      Count: 1
+
+PeerOrgs:
+  - Name: PartnersBank
+    Domain: partnersbank
+    Template:
+      Count: 2
+    Users:
+      Count: 1
+  - Name: MultiBankWest
+    Domain: multibankwest
+    Template:
+      Count: 2
+    Users:
+      Count: 1
+
+
+
+
